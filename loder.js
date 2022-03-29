@@ -1,10 +1,10 @@
-const arr = ['shreyash', 'shrestha', 'developer', 'cricket'];
+const names = ['shreyash', 'shrestha', 'developer', 'cricket'];
 const ages = [23,22,21,24];
-console.log(arr);
+console.log(names);
 // export (arr)
 module.exports = 
 {
-    arr : arr,
+    names : names,
     ages : ages
 }
 
