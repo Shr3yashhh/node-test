@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shr3yashhh/node-test.git"
+  },
+  "author": "shreyash-shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shr3yashhh/node-test/issues"
+  },
+  "homepage": "https://github.com/Shr3yashhh/node-test#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
